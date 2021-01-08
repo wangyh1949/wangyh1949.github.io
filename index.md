@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at University of Illinois at Urbana-Champaign
+I am a Physics Ph.D. student at University of Illinois at Urbana-Champaign (UIUC)
 
 ## Research Interests
 
@@ -13,12 +13,11 @@ I am a Ph.D. student at University of Illinois at Urbana-Champaign
 
 ## Education
 
-- **Southern University of Science and Technology**
-  - B.S. in Physics, In Honors
+- **Southern University of Science and Technology** (SUSTech) 	[2016-2020]
+  - B.S. in Physics
 
 ## Research Experience
 
 - **Light-Matter Interaction in 2D vdW Materials**
 - **Kinetics of Separation of Biomolecular Complexes Under Tensile Force Constraints**
-- **Biophysics and Evolutionary Dynamics** 
-- **Mechanism of Quantum Relaxation Time at Optical Frequency**
+- **Evolutionary Dynamics in Biophysics** 
