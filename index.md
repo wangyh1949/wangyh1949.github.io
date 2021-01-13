@@ -13,7 +13,7 @@ I am a Physics Ph.D. student at University of Illinois at Urbana-Champaign (UIUC
 
 ## Education
 
-- **Southern University of Science and Technology** (SUSTech) 	[2016-2020]
+- **Southern University of Science and Technology (SUSTech)** 	[2016-2020]
   - B.S. in Physics
 
 ## Research Experience
