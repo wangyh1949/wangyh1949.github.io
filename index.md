@@ -15,9 +15,11 @@ I am a Physics Ph.D. student at University of Illinois at Urbana-Champaign (UIUC
 
 - **Southern University of Science and Technology (SUSTech)** 	[2016-2020]
   - B.S. in Physics
+- **University of California, Berkeley** 	[2019.01-2019.08]
+  - Study Abroad Program
 
 ## Research Experience
 
-- **Light-Matter Interaction in 2D vdW Materials**
+- **Light-Matter Interaction in Condensed Matter Physics**
 - **Kinetics of Separation of Biomolecular Complexes Under Tensile Force Constraints**
 - **Evolutionary Dynamics in Biophysics** 
