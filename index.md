@@ -20,6 +20,6 @@ I am a Physics Ph.D. student at University of Illinois at Urbana-Champaign (UIUC
 
 ## Research Experience
 
-- **Light-Matter Interaction in Condensed Matter Physics**
 - **Kinetics of Separation of Biomolecular Complexes Under Tensile Force Constraints**
 - **Evolutionary Dynamics in Biophysics** 
+- **Light-Matter Interaction in Condensed Matter Physics**
