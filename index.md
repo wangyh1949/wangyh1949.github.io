@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Physics Ph.D. student at University of Illinois at Urbana-Champaign (UIUC)
+I am a physics Ph.D. student at University of Illinois at Urbana-Champaign (UIUC)
 
 ## Research Interests
 
@@ -12,7 +12,8 @@ I am a Physics Ph.D. student at University of Illinois at Urbana-Champaign (UIUC
 - **Super-Resolution Fluorescence Microscopy**
 
 ## Education
-
+- **University of Illinois at Urbana-Champaign** 	[2020-Present]
+  - Ph.D. in Physics
 - **Southern University of Science and Technology (SUSTech)** 	[2016-2020]
   - B.S. in Physics
 - **University of California, Berkeley** 	[2019.01-2019.08]
