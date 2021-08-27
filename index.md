@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a physics Ph.D. student at University of Illinois at Urbana-Champaign (UIUC)
+I am a physics Ph.D. candidate at University of Illinois at Urbana-Champaign (UIUC)
 
 ## Research Interests
 
