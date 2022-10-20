@@ -10,7 +10,8 @@ I am a physics Ph.D. candidate at University of Illinois at Urbana-Champaign (UI
 
 - **Single-Molecule Biophysics** 
 - **Super-Resolution Fluorescence Microscopy**
-
+- **Gene Expression**
+- 
 ## Education
 - **University of Illinois at Urbana-Champaign** 	[2020-Present]
   - Ph.D. in Physics
