@@ -10,7 +10,7 @@ I am a physics Ph.D. candidate at University of Illinois at Urbana-Champaign (UI
 
 - **Single-Molecule Biophysics** 
 - **Super-Resolution Fluorescence Microscopy**
-- **Gene Expression**
+- **Regulation of Gene Expression**
 
 ## Education
 - **University of Illinois at Urbana-Champaign** 	[2020-Present]
@@ -20,7 +20,7 @@ I am a physics Ph.D. candidate at University of Illinois at Urbana-Champaign (UI
 - **University of California, Berkeley** 	[2019.01-2019.08]
   - Study Abroad Program
 
-## Research Experience
+## Past Research Experience
 
 - **Kinetics of Separation of Biomolecular Complexes Under Tensile Force Constraints**
 - **Evolutionary Dynamics in Biophysics** 
