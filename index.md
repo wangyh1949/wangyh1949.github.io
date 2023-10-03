@@ -18,7 +18,7 @@ I am a physics Ph.D. candidate at University of Illinois at Urbana-Champaign (UI
 - **Southern University of Science and Technology (SUSTech)** 	[2016-2020]
   - B.S. in Physics
 - **University of California, Berkeley** 	[2019.01-2019.08]
-  - Study Abroad Program
+  - Visiting Student
 
 ## Past Research Experience
 
