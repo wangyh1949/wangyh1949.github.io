@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-Hi, I'm Yu-Huan Wang. I am a physics Ph.D. candidate at [University of Illinois Urbana-Champaign](https://illinois.edu/). I study single-molecule biophysics in the [Kim Lab](https://www.sjkimlab.org/). I use single-particle tracking and super-resolution imaging technique to study the spatiotemporal properties of DNA loci and proteins in living bacterial cells.
+Hi, I'm Yu-Huan Wang. I am a Ph.D. candidate in the Department of Physics at the University of Illinois Urbana-Champaign, advised by Prof. [Sangjin Kim](https://physics.illinois.edu/people/directory/profile/sangjin). I use single-particle tracking and super-resolution imaging technique to study the spatiotemporal properties of DNA loci and proteins in living bacterial cells. You can learn more about our research at [Kim Lab Website](https://www.sjkimlab.org/).
 
 ## Research Interests
 - **Single-Molecule Biophysics** 
@@ -11,7 +11,7 @@ Hi, I'm Yu-Huan Wang. I am a physics Ph.D. candidate at [University of Illinois 
 - **Regulation of Gene Expression**
 
 ## Education
-- **University of Illinois at Urbana-Champaign** 	[2020-Present]
+- **University of Illinois Urbana-Champaign** 	[2020-Present]
   - Ph.D. in Physics
 - **Southern University of Science and Technology (SUSTech)** 	[2016-2020]
   - B.S. in Physics
