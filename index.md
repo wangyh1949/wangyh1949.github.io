@@ -44,8 +44,8 @@ Hi, I'm Yu-Huan Wang. I am a physics Ph.D. candidate at [University of Illinois 
 
 ## Honors and Awards
 
-- NSF-STC QCB seed grant (UIUC, 2025)
-- “People’s choice” Poster Award 5th Annual Illinois Biophysics Graduate Symposium                       2024
+- [NSF-STC QCB](https://qcb.illinois.edu/) seed grant (UIUC, 2025)
+- “People’s choice” Poster Award (Illinois Biophysics, 2024)
 - Outstanding Graduate Award (SUSTech, 2020)
 - Excellent Undergraduate Thesis Award (SUSTech, 2020)
 - Full Scholarship for Study Abroad – Semester Exchange (SUSTech, 2019)
