@@ -31,7 +31,7 @@ Hi, I'm Yu-Huan Wang, a Ph.D. candidate in Physics at the University of Illinois
   
 ## Honors and Awards
 - [Mavis Future Faculty Fellows](https://mavis.grainger.illinois.edu/) (UIUC, 2025-2026)
-- [NSF-STC QCB](https://qcb.illinois.edu/) seed grant (UIUC, 2025)
+- [NSF Center for Quantitative Cell Biology](https://qcb.illinois.edu/) seed grant (2025)
 - “People’s choice” Poster Award (Illinois Biophysics, 2024)
 - Outstanding Graduate Award (SUSTech, 2020)
 - Excellent Undergraduate Thesis Award (SUSTech, 2020)
