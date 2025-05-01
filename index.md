@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-Hi, I'm Yu-Huan Wang. I am a Ph.D. candidate in the Department of Physics at the University of Illinois Urbana-Champaign, advised by Prof. [Sangjin Kim](https://physics.illinois.edu/people/directory/profile/sangjin). I use single-particle tracking and super-resolution imaging technique to study the spatiotemporal properties of DNA loci and proteins in living bacterial cells. You can learn more about our research at [Kim Lab Website](https://www.sjkimlab.org/).
+Hi, I'm Yu-Huan Wang, a Ph.D. candidate in Physics at the University of Illinois Urbana-Champaign, working with [Prof. Sangjin Kim](https://physics.illinois.edu/people/directory/profile/sangjin). My research focuses on exploring the spatiotemporal dynamics of DNA loci and proteins in living bacterial cells using single-particle tracking and super-resolution imaging.  Learn more about our work at the [Kim Lab Website](https://www.sjkimlab.org/).
 
 ## Research Interests
 - **Single-Molecule Biophysics** 
@@ -30,11 +30,12 @@ Hi, I'm Yu-Huan Wang. I am a Ph.D. candidate in the Department of Physics at the
   - Investigated the mechanism of electron scattering in 2D vdW materials at DC and optical field using plasma resonance physics 
   
 ## Honors and Awards
+- [Mavis Future Faculty Fellows](https://mavis.grainger.illinois.edu/) (UIUC, 2025-2026)
 - [NSF-STC QCB](https://qcb.illinois.edu/) seed grant (UIUC, 2025)
 - “People’s choice” Poster Award (Illinois Biophysics, 2024)
 - Outstanding Graduate Award (SUSTech, 2020)
 - Excellent Undergraduate Thesis Award (SUSTech, 2020)
-- Full Scholarship for Study Abroad – Semester Exchange (SUSTech, 2019)
+- Full Scholarship for Study Abroad (SUSTech, 2019)
 - Climbing Research Grant (Guangdong Province, China, 2019)
 - Full Scholarship for Academic Excellence (SUSTech, 2017-2020)
 
