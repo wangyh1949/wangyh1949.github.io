@@ -11,10 +11,10 @@ Hi, I'm Yu-Huan Wang, a Ph.D. candidate in Physics at the University of Illinois
 - **Regulation of Gene Expression**
 
 ## Education
-- **University of Illinois Urbana-Champaign** 	[2020-Present]
+- **University of Illinois Urbana-Champaign (UIUC)** 	[2020-Present]
   - PhD in Physics
 - **Southern University of Science and Technology (SUSTech)** 	[2016-2020]
-  - BSc in Physics
+  - BS in Physics
 - **University of California, Berkeley** 	[2019.01-2019.08]
   - Visiting Student
 
