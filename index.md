@@ -3,14 +3,29 @@ layout: homepage
 ---
 
 ## About Me
-Hi, I'm Yu-Huan Wang, a Ph.D. candidate in Physics at the University of Illinois Urbana-Champaign, working with [Prof. Sangjin Kim](https://physics.illinois.edu/people/directory/profile/sangjin). My research focuses on exploring the spatiotemporal dynamics of DNA loci and proteins in living bacterial cells using single-particle tracking and super-resolution imaging.  Learn more about our work at the [Kim Lab Website](https://www.sjkimlab.org/).
+
+Hi, I'm a Ph.D. candidate in Physics at the University of Illinois Urbana-Champaign, working with [Prof. Sangjin Kim](https://physics.illinois.edu/people/directory/profile/sangjin). My research focuses on exploring the spatiotemporal dynamics of DNA loci and proteins in living bacterial cells using single-particle tracking and super-resolution imaging.  Learn more about our work at the [Kim Lab Website](https://www.sjkimlab.org/).
 
 ## Research Interests
+
 - **Single-Molecule Biophysics** 
 - **Super-Resolution Fluorescence Microscopy**
-- **Regulation of Gene Expression**
+- **Chromosome Organization and Dynamics**
+
+## News
+
+- **[Nov. 2025]** I was selected as a recepient of 2026 BPS Graduate Travel Award. This is my first time attending BPS. Excited~
+- **[Nov. 2025]** Our paper about RNase E was published on eLife! Congrats Laura! This is the first project I worked on in my PhD.
+- **[Oct. 2025]** Our paper about MSD fitting was published on JCP! Congrats Aishani! We used non-linear MSD fitting for acurrate estimation of diffusion parameters. 
+- **[May. 2025]** I was selected as one of the Mavis Future Faculty Fellows (MF3) for the 2025-2026 academic year.
+- **[April. 2025]** I was awarded the geed grant from QCB. This funding will support me to investigate the spatiotemporal dynamics of lambda phage DNA circularization in E. coli cells and examine its role in phage infection outcomes. Congrats to my collaborator Wenqing & Ayesha as well!
+- **[Nov. 2024]** I passed the preliminary exam of the PhD program. Let's go~
+
+
+{% include_relative _includes/publications.md %}
 
 ## Education
+
 - **University of Illinois Urbana-Champaign (UIUC)** 	[2020-Present]
   - PhD in Physics
 - **Southern University of Science and Technology (SUSTech)** 	[2016-2020]
@@ -18,7 +33,8 @@ Hi, I'm Yu-Huan Wang, a Ph.D. candidate in Physics at the University of Illinois
 - **University of California, Berkeley** 	[2019.01-2019.08]
   - Visiting Student
 
-## Past Research Experience
+<!-- ## Past Research Experience
+
 - **Kinetics of Separation of Biomolecular Complexes Under Tensile Force Constraints**
   - Undergraduate Thesis: Ultra-Strong Mechanical Stabilization Effects Found in Catch-to-Slip Bonds Involved in Transitions with One Intermediate State
 - **Evolutionary Dynamics in Biophysics** 
@@ -27,9 +43,11 @@ Hi, I'm Yu-Huan Wang, a Ph.D. candidate in Physics at the University of Illinois
 - **Light-Matter Interaction in Condensed Matter Physics**
   - Made WS2 and MoS2 monolayer samples by mechanical exfoliation
   - Built a microscopic photoluminescence spectrometer and measured the energy bandgap of monolayer samples
-  - Investigated the mechanism of electron scattering in 2D vdW materials at DC and optical field using plasma resonance physics 
+  - Investigated the mechanism of electron scattering in 2D vdW materials at DC and optical field using plasma resonance physics  -->
   
 ## Honors and Awards
+
+- BPS Graduate Travel Award (Biophysical Society, 2026)
 - [Mavis Future Faculty Fellows](https://mavis.grainger.illinois.edu/) (UIUC, 2025-2026)
 - [NSF Center for Quantitative Cell Biology](https://qcb.illinois.edu/) seed grant (2025)
 - “People’s choice” Poster Award (Illinois Biophysics, 2024)
