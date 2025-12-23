@@ -7,7 +7,7 @@ main:
     link: https://doi.org/10.7554/eLife.105062.3
     pdf: ./assets/paper/2025_Troyer_eLife.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    image: ./assets/img/paper/2025_eLife.png
+    image: ./assets/img/paper/2025_eLife.jpg
 
   - title: Practical considerations for accurate estimation of diffusion parameters from single-particle tracking in living cells
     authors: Aishani Ghosal, <strong>Yu-Huan Wang</strong>, Nguyen Nguyen, Laura Troyer, Sangjin Kim

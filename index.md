@@ -15,8 +15,8 @@ Hi, I'm a Ph.D. candidate in Physics at the University of Illinois Urbana-Champa
 ## News
 
 - **[Nov. 2025]** I was selected as a recepient of 2026 BPS Graduate Travel Award. This is my first time attending BPS. Excited~
-- **[Nov. 2025]** Our paper about RNase E was published on eLife! Congrats Laura! This is the first project I worked on in my PhD.
-- **[Oct. 2025]** Our paper about MSD fitting was published on JCP! Congrats Aishani! We used non-linear MSD fitting for acurrate estimation of diffusion parameters. 
+- **[Nov. 2025]** Our paper about RNase E was published on eLife! Congrats Laura! This is the first project I worked on during my PhD.
+- **[Oct. 2025]** Our paper about MSD fitting was published on JCP! Congrats Aishani! We used non-linear MSD fitting to acurrately estimate diffusion parameters. 
 - **[May. 2025]** I was selected as one of the Mavis Future Faculty Fellows (MF3) for the 2025-2026 academic year.
 - **[April. 2025]** I was awarded the geed grant from QCB. This funding will support me to investigate the spatiotemporal dynamics of lambda phage DNA circularization in E. coli cells and examine its role in phage infection outcomes. Congrats to my collaborator Wenqing & Ayesha as well!
 - **[Nov. 2024]** I passed the preliminary exam of the PhD program. Let's go~
@@ -28,11 +28,11 @@ Hi, I'm a Ph.D. candidate in Physics at the University of Illinois Urbana-Champa
 ## Education
 
 - **University of Illinois Urbana-Champaign (UIUC)** [2020–Present]  
-    PhD in Physics
+      PhD in Physics
 - **Southern University of Science and Technology (SUSTech)** [2016–2020]  
-    BS in Physics
+      BS in Physics
 - **University of California, Berkeley** [2019.01–2019.08]  
-    Visiting Student
+      Visiting Student
 
 <!-- ## Past Research Experience
 
