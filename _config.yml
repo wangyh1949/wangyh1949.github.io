@@ -23,8 +23,8 @@ twitter: https://x.com/yuhuan_alvin
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: /assets/img/profile_devilslake.jpg
 
-favicon: /assets/img/github-mark.png
-favicon_dark: /assets/img/github-mark-white.png
+favicon: /assets/img/favicon.png
+favicon_dark: /assets/img/favicon-dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
@@ -32,7 +32,7 @@ enable_footnote: false #true
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
-auto_dark_mode: false #true
+auto_dark_mode: true
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
