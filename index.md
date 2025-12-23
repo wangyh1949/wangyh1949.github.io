@@ -14,25 +14,25 @@ Hi, I'm a Ph.D. candidate in Physics at the University of Illinois Urbana-Champa
 
 ## News
 
-- **[Nov. 2025]** I was selected as a recepient of 2026 [BPS] (https://www.biophysics.org) Graduate Travel Award.
-- **[Nov. 2025]** Our paper about [RNase E] (https://doi.org/10.7554/eLife.105062.3) was published on **eLife**!
-- **[Oct. 2025]** Our paper about [MSD fitting] (https://doi.org/10.1063/5.0284172) was published on **JCP**!
-- **[May. 2025]** I was selected as a [Mavis Future Faculty Fellow] (https://mavis.grainger.illinois.edu/) for 2025-2026.
+- **[Nov. 2025]** I was selected as a recepient of 2026 [BPS](https://www.biophysics.org) Graduate Travel Award.
+- **[Nov. 2025]** Our paper about [RNase E](https://doi.org/10.7554/eLife.105062.3) was published on **eLife**!
+- **[Oct. 2025]** Our paper about [MSD fitting](https://doi.org/10.1063/5.0284172) was published on **JCP**!
+- **[May. 2025]** I was selected as a [Mavis Future Faculty Fellow](https://mavis.grainger.illinois.edu/) for 2025-2026.
 - **[April. 2025]** I was awarded the geed grant from [QCB](https://qcb.illinois.edu/). 
 - **[Nov. 2024]** I passed the preliminary exam of the Physics PhD program. Let's go~
 
 
-{% include_relative _includes/publications.md %}
+{% include_relative publications.md %}
 
 
 ## Education
 
 - **University of Illinois Urbana-Champaign** [2020–Present]  
-      PhD in Physics
+  PhD in Physics
 - **Southern University of Science and Technology** [2016–2020]  
-      BS in Physics
+  BS in Physics
 - **University of California, Berkeley** [2019.01–2019.08]  
-      Visiting Student
+  Visiting Student
 
 <!-- ## Past Research Experience
 

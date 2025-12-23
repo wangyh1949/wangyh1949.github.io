@@ -7,9 +7,9 @@ email: yuhuanw2 (at) illinois.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-# description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: yuhuan wang, yuhuanwang, Yu-Huan Wang, uiuc
+description: Yu-Huan Wang's personal website, including research, publications, and contact information.
+canonical: https://wangyh1949.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -21,9 +21,10 @@ twitter: https://x.com/yuhuan_alvin
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/Beckman_crop.JPG
-favicon: ./assets/img/github-mark-white.png
-favicon_dark: ./assets/img/github-mark.png
+avatar: ./assets/img/profile_devilslake.jpg
+
+# favicon: ./assets/img/github-mark-white.png
+# favicon_dark: ./assets/img/github-mark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
