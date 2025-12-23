@@ -12,7 +12,7 @@ main:
   - title: Practical considerations for accurate estimation of diffusion parameters from single-particle tracking in living cells
     authors: Aishani Ghosal, <strong>Yu-Huan Wang</strong>, Nguyen Nguyen, Laura Troyer, Sangjin Kim*
     journal_short: JCP
-    journal: Journal of Chemical Physics <strong>JCP</strong>, 2025.
+    journal: Journal of Chemical Physics <strong>(JCP)</strong>, 2025.
     link: https://doi.org/10.1063/5.0284172
     pdf: ./assets/paper/Ghosal_JCP_2025.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
