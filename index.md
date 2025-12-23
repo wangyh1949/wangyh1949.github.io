@@ -28,11 +28,11 @@ Hi, I'm a Ph.D. candidate in Physics at the University of Illinois Urbana-Champa
 ## Education
 
 - **University of Illinois Urbana-Champaign (UIUC)** [2020–Present]  
-  PhD in Physics
+    PhD in Physics
 - **Southern University of Science and Technology (SUSTech)** [2016–2020]  
-  BS in Physics
+    BS in Physics
 - **University of California, Berkeley** [2019.01–2019.08]  
-  Visiting Student
+    Visiting Student
 
 <!-- ## Past Research Experience
 
