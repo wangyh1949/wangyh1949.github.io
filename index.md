@@ -17,6 +17,7 @@ Hi, I'm a Ph.D. candidate in Physics at the University of Illinois Urbana-Champa
 - **[Nov. 2025]** I was selected as a recepient of 2026 [BPS](https://www.biophysics.org) Graduate Travel Award.
 - **[Nov. 2025]** Our paper about [RNase E](https://doi.org/10.7554/eLife.105062.3) was published on **eLife**!
 - **[Oct. 2025]** Our paper about [MSD fitting](https://doi.org/10.1063/5.0284172) was published on **JCP**!
+- **[July. 2025]** I gave an oral presentation on loci dynamics at the [NSF iPoLS annual meeting](https://emails.illinois.edu/newsletter/29/426731929.html).
 - **[May. 2025]** I was selected as a [Mavis Future Faculty Fellow](https://mavis.grainger.illinois.edu/) for 2025-2026.
 - **[April. 2025]** I was awarded the geed grant from [QCB](https://qcb.illinois.edu/). 
 - **[Nov. 2024]** I passed the preliminary exam of the Physics PhD program. Let's go~
