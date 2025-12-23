@@ -21,10 +21,10 @@ twitter: https://x.com/yuhuan_alvin
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/profile_devilslake.jpg
+avatar: /assets/img/profile_devilslake.jpg
 
-# favicon: ./assets/img/github-mark-white.png
-# favicon_dark: ./assets/img/github-mark.png
+favicon: /assets/img/github-mark.png
+favicon_dark: /assets/img/github-mark-white.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
