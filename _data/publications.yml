@@ -1,0 +1,22 @@
+main:
+
+  - title: Roles of the membrane-binding motif and the C-terminal domain of RNase E in localization and diffusion in <em>E. coli</em>
+    authors: Aishani Ghosal, <strong>Yu-Huan Wang</strong>, Nguyen Nguyen, Laura Troyer, Sangjin Kim*
+    journal_short: eLife
+    journal: <strong>eLife</strong>, 2025.
+    link: https://doi.org/10.7554/eLife.105062.3
+    pdf: ./assets/paper/Troyer_eLife_2025.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    image: ./assets/img/paper/2025_eLife.png
+
+  - title: Practical considerations for accurate estimation of diffusion parameters from single-particle tracking in living cells
+    authors: Aishani Ghosal, <strong>Yu-Huan Wang</strong>, Nguyen Nguyen, Laura Troyer, Sangjin Kim*
+    journal_short: JCP
+    journal: Journal of Chemical Physics <strong>JCP</strong>, 2025.
+    link: https://doi.org/10.1063/5.0284172
+    pdf: ./assets/paper/Ghosal_JCP_2025.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/paper/2025_JCP.png
