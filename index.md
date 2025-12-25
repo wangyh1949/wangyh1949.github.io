@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi, I'm a Ph.D. candidate in Physics at the University of Illinois Urbana-Champaign, working with [Prof. Sangjin Kim](https://physics.illinois.edu/people/directory/profile/sangjin). My research focuses on exploring the spatiotemporal dynamics of DNA loci and proteins in living bacterial cells using single-particle tracking and super-resolution imaging.  Learn more about our work at the [Kim Lab Website](https://www.sjkimlab.org/).
+Hi, I'm a Ph.D. candidate in Physics at the University of Illinois Urbana-Champaign, working with [Prof. Sangjin Kim](https://physics.illinois.edu/people/directory/profile/sangjin). My research focuses on exploring the spatiotemporal dynamics of DNA loci and proteins in living bacterial cells using single-particle tracking and super-resolution microscopy.  Learn more about our work at the [Kim Lab Website](https://www.sjkimlab.org/).
 
 ## Research Interests
 
@@ -14,13 +14,14 @@ Hi, I'm a Ph.D. candidate in Physics at the University of Illinois Urbana-Champa
 
 ## News
 
-- **[Nov. 2025]** I was selected as a recepient of 2026 [BPS](https://www.biophysics.org) Graduate Travel Award.
-- **[Nov. 2025]** Our paper about [RNase E](https://doi.org/10.7554/eLife.105062.3) was published on **eLife**!
-- **[Oct. 2025]** Our paper about [MSD fitting](https://doi.org/10.1063/5.0284172) was published on **JCP**!
-- **[July. 2025]** I gave an oral presentation on loci dynamics at the [NSF iPoLS annual meeting](https://emails.illinois.edu/newsletter/29/426731929.html).
-- **[May. 2025]** I was selected as a [Mavis Future Faculty Fellow](https://mavis.grainger.illinois.edu/) for 2025-2026.
-- **[April. 2025]** I was awarded the geed grant from [QCB](https://qcb.illinois.edu/). 
-- **[Nov. 2024]** I passed the preliminary exam of the Physics PhD program. Let's go~
+- **[Nov. 2025]** I have received the Graduate Travel Award for the [2026 BPS Annual Meeting](https://www.biophysics.org/2026meeting#/).
+- **[Nov. 2025]** Our paper about [RNase E localization & diffusion](https://doi.org/10.7554/eLife.105062.3) is published on **eLife**!
+- **[Oct. 2025]** Our paper about [MSD non-linear fitting](https://doi.org/10.1063/5.0284172) is published on **JCP**!
+- **[July. 2025]** I gave an talk on loci dynamics at the [NSF iPoLS annual meeting](https://emails.illinois.edu/newsletter/29/426731929.html).
+- **[May. 2025]** I have been selected as a [Mavis Future Faculty Fellow](https://mavis.grainger.illinois.edu/) for the 2025-2026 academic year.
+- **[April. 2025]** I haved been awarded $20,000 seed grant from [QCB](https://qcb.illinois.edu/). 
+- **[Nov. 2024]** I have passed my PhD preliminary exam! Let's go~
+- **[April. 2024]** I have received “People’s choice” Poster Award in the 5th Annual Illinois Biophysics Graduate Research and Networking Symposium.
 
 
 {% include_relative publications.md %}
@@ -28,7 +29,7 @@ Hi, I'm a Ph.D. candidate in Physics at the University of Illinois Urbana-Champa
 
 ## Education
 
-- **University of Illinois Urbana-Champaign** [2020–Present]  
+- **University of Illinois Urbana-Champaign** [2020–Present]    
   <div style="margin-left:20px;">PhD in Physics</div>
 - **Southern University of Science and Technology** [2016–2020]  
   <div style="margin-left:20px;">BS in Physics</div>
