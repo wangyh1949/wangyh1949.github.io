@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assets/files/curriculum_vitae.pdf</loc>
+<lastmod>2025-12-24T10:23:05-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/paper/2024_Kim_bioRxiv.pdf</loc>
+<lastmod>2025-12-24T10:23:05-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/paper/2025_Ghosal_JCP.pdf</loc>
+<lastmod>2025-12-24T10:23:05-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/paper/2025_Troyer_eLife.pdf</loc>
+<lastmod>2025-12-24T10:23:05-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/googled59bbf6ad6a4fcc6.html</loc>
+<lastmod>2025-12-24T10:20:47-06:00</lastmod>
+</url>
+</urlset>
