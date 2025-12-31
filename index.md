@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi, I'm a Ph.D. candidate in Physics at the University of Illinois Urbana-Champaign, working with [Prof. Sangjin Kim](https://physics.illinois.edu/people/directory/profile/sangjin). My research focuses on exploring the spatiotemporal dynamics of DNA loci and proteins in living bacterial cells using single-particle tracking and super-resolution imaging.  Learn more about our work at the [Kim Lab Website](https://www.sjkimlab.org/).
+Hi, I'm a Ph.D. candidate in Physics at the University of Illinois Urbana-Champaign. My research focuses on exploring the spatiotemporal dynamics of DNA loci and proteins in living bacterial cells using single-particle tracking and super-resolution imaging.  Learn more about our work at the [Kim Lab Website](https://www.sjkimlab.org/).
 
 ## Research Interests
 
