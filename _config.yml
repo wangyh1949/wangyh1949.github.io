@@ -3,7 +3,7 @@ title: Yu-Huan Wang
 position: Ph.D. Candidate
 affiliation: Department of Physics <br> University of Illinois Urbana-Champaign
 affiliation_link: https://physics.illinois.edu/
-email: yuhuanw2 (at) illinois.com
+email: yuhuanw2@illinois.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -28,11 +28,11 @@ favicon_dark: /assets/img/favicon-dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: false #true
+# enable_footnote: true
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
-# auto_dark_mode: true
+auto_dark_mode: true
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
@@ -42,7 +42,7 @@ font: "Serif" # or "Sans Serif"
 # Please remove this if you don't use Google Analytics
 google_analytics: G-F0C2WNN09F
 
-url: https://wangyh1949.github.io/
+url: https://wangyh1949.github.io
 
 plugins:
   - jekyll-sitemap
