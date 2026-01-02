@@ -24,7 +24,7 @@ Hi, I'm a Ph.D. candidate in Physics at the University of Illinois Urbana-Champa
 - **[April. 2024]** I have received “People’s choice” Poster Award in the 5th Annual Illinois Biophysics Graduate Research and Networking Symposium.
 
 
-{% include_relative publications.md %}
+{% include_relative _includes/publications.md %}
 
 
 ## Education
