@@ -27,4 +27,5 @@ main:
     journal: <strong>bioRxiv</strong>, 2024.
     link: https://www.biorxiv.org/content/10.1101/2024.04.18.588412v1.full
     pdf: ./assets/paper/2024_Kim_bioRxiv.pdf
+    notes: preprint
     image: ./assets/img/paper/2024_bioRxiv.jpg
