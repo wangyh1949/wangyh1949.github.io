@@ -14,14 +14,17 @@ Hi, I'm a Ph.D. candidate in Physics at the University of Illinois Urbana-Champa
 
 ## News
 
-- **[Nov. 2025]** I have received the Graduate Travel Award for the [2026 BPS Annual Meeting](https://www.biophysics.org/2026meeting#/).
-- **[Nov. 2025]** Our paper about [RNase E localization & diffusion](https://doi.org/10.7554/eLife.105062.3) is published on **eLife**!
-- **[Oct. 2025]** Our paper about [MSD non-linear fitting](https://doi.org/10.1063/5.0284172) is published on **JCP**!
-- **[July. 2025]** I gave an talk on loci dynamics at the [NSF iPoLS annual meeting](https://emails.illinois.edu/newsletter/29/426731929.html).
-- **[May. 2025]** I have been selected as a [Mavis Future Faculty Fellow](https://mavis.grainger.illinois.edu/) for the 2025-2026 academic year.
-- **[April. 2025]** I haved been awarded $20,000 seed grant from [QCB](https://qcb.illinois.edu/). 
-- **[Nov. 2024]** I have passed my PhD preliminary exam! Let's go~
-- **[April. 2024]** I have received “People’s choice” Poster Award in the 5th Annual Illinois Biophysics Graduate Research and Networking Symposium.
+#### 2025
+- **[Nov. 25]** I received the Graduate Travel Award for the [2026 BPS Annual Meeting](https://www.biophysics.org/2026meeting#/).
+- **[Nov. 7]** Our paper on [RNase E's localization & diffusion](https://doi.org/10.7554/eLife.105062.3) was published on **eLife**.
+- **[Oct. 6]** Our paper on [MSD nonlinear fitting](https://doi.org/10.1063/5.0284172) was published on **JCP**.
+- **[July 30]** I gave a talk on loci dynamics at the [NSF iPoLS annual meeting](https://emails.illinois.edu/newsletter/29/426731929.html).
+- **[May 1]** I was selected as a [Mavis Future Faculty Fellow](https://mavis.grainger.illinois.edu/).
+- **[Apr. 14]** I was awarded a $20,000 seed grant from [NSF-QCB](https://qcb.illinois.edu/).
+
+#### 2024
+- **[Nov. 4]** I passed my PhD preliminary exam! Let's go~
+- **[Apr. 23]** I received the “People’s Choice” Poster Award at the 5th Annual Illinois Biophysics Graduate Research and Networking Symposium.
 
 
 {% include_relative _includes/publications.md %}
@@ -51,7 +54,7 @@ Hi, I'm a Ph.D. candidate in Physics at the University of Illinois Urbana-Champa
 ## Honors and Awards
 
 - BPS Graduate Travel Award (Biophysical Society, 2026)
-- [Mavis Future Faculty Fellows](https://mavis.grainger.illinois.edu/) (UIUC, 2025-2026)
+- [Mavis Future Faculty Fellow](https://mavis.grainger.illinois.edu/) (UIUC, 2025-2026)
 - [NSF Center for Quantitative Cell Biology](https://qcb.illinois.edu/) seed grant (2025)
 - “People’s choice” Poster Award (Illinois Biophysics, 2024)
 - Outstanding Graduate Award (SUSTech, 2020)

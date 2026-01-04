@@ -1,7 +1,7 @@
 main:
 
   - title: Roles of the membrane-binding motif and the C-terminal domain of RNase E in localization and diffusion in <em>E. coli</em>
-    authors: Laura Troyer*, <strong>Yu-Huan Wang*</strong>, Shobhna Shobhna, Seunghyeon Kim, Brooke Ramsey, Jeechul Woo, Emad Tajkhorshid, Sangjin Kim (*co-first authors)
+    authors: Laura Troyer*, <u><strong>Yu-Huan Wang*</strong></u>, Shobhna Shobhna, Seunghyeon Kim, Brooke Ramsey, Jeechul Woo, Emad Tajkhorshid, Sangjin Kim (*co-first authors)
     journal_short: eLife
     journal: <strong>eLife</strong>, 2025.
     link: https://doi.org/10.7554/eLife.105062.3
@@ -10,7 +10,7 @@ main:
     image: ./assets/img/paper/2025_eLife.jpg
 
   - title: Practical considerations for accurate estimation of diffusion parameters from single-particle tracking in living cells
-    authors: Aishani Ghosal, <strong>Yu-Huan Wang</strong>, Nguyen Nguyen, Laura Troyer, Sangjin Kim
+    authors: Aishani Ghosal, <u><strong>Yu-Huan Wang</strong></u>, Nguyen Nguyen, Laura Troyer, Sangjin Kim
     journal_short: JCP
     journal: Journal of Chemical Physics <strong>(JCP)</strong>, 2025.
     link: https://doi.org/10.1063/5.0284172
@@ -22,7 +22,7 @@ main:
     image: ./assets/img/paper/2025_JCP.png
 
   - title: Re-defining how mRNA degradation is coordinated with transcription and translation in bacteria
-    authors: Seunghyeon Kim, <strong>Yu-Huan Wang</strong>, Albur Hassan, Sangjin Kim
+    authors: Seunghyeon Kim, <u><strong>Yu-Huan Wang</strong></u>, Albur Hassan, Sangjin Kim
     journal_short: bioRxiv
     journal: <strong>bioRxiv</strong>, 2024.
     link: https://www.biorxiv.org/content/10.1101/2024.04.18.588412v1.full
