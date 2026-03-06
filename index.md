@@ -15,7 +15,7 @@ Hi, I'm a Ph.D. candidate in Physics at the University of Illinois Urbana-Champa
 ## News
 
 #### 2026
-- **[Feb. 23]** I'm honored to receive the Student Research Achievement Award in the [2026 BPS Annual Meeting](https://www.biophysics.org/2026meeting#/).
+- **[Feb. 23]** I'm honored to receive the [Student Research Achievement Award (SRAA)](https://www.biophysics.org/news-room/biophysical-society-selects-student-research-achievement-award-winners-47) for the Biopolymers in vivo Subgroup at the [2026 BPS Annual Meeting](https://www.biophysics.org/2026meeting#/).
 
 #### 2025
 - **[Nov. 25]** I received the Graduate Travel Award for the [2026 BPS Annual Meeting](https://www.biophysics.org/2026meeting#/).
