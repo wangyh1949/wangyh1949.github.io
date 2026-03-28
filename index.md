@@ -15,6 +15,7 @@ Hi, I'm a Ph.D. candidate in Physics at the University of Illinois Urbana-Champa
 ## News
 
 #### 2026
+- **[March 24]** I gave a research talk at the Biopolymers In Vivo (BIV) Subgroup Student Mini-Symposium in celebration of the 11th [Annual Biophysics Week](https://www.biophysics.org/biophysics-week#/).
 - **[Feb. 23]** I'm honored to receive the [Student Research Achievement Award (SRAA)](https://www.biophysics.org/news-room/biophysical-society-selects-student-research-achievement-award-winners-47) for the Biopolymers in vivo Subgroup at the [2026 BPS Annual Meeting](https://www.biophysics.org/2026meeting#/).
 
 #### 2025
@@ -23,7 +24,7 @@ Hi, I'm a Ph.D. candidate in Physics at the University of Illinois Urbana-Champa
 - **[Oct. 6]** Our paper on [MSD nonlinear fitting](https://doi.org/10.1063/5.0284172) was published on **JCP**.
 - **[July 30]** I gave a talk on loci dynamics at the [NSF iPoLS annual meeting](https://emails.illinois.edu/newsletter/29/426731929.html).
 - **[May 1]** I was selected as a [Mavis Future Faculty Fellow](https://mavis.grainger.illinois.edu/).
-- **[Apr. 14]** I was awarded a $20,000 seed grant from [NSF-QCB](https://qcb.illinois.edu/).
+- **[Apr. 14]** I was awarded a seed grant from [NSF Center for Quantitative Cell Biology](https://qcb.illinois.edu/) to investigate the spatiotemporal dynamics of phage DNA circularization in *E. coli*.
 
 #### 2024
 - **[Nov. 4]** I passed my PhD preliminary exam! Let's go~
@@ -59,7 +60,7 @@ Hi, I'm a Ph.D. candidate in Physics at the University of Illinois Urbana-Champa
 - Student Research Achievement Award (Biophysical Society, 2026)
 - BPS Graduate Travel Award (Biophysical Society, 2026)
 - [Mavis Future Faculty Fellow](https://mavis.grainger.illinois.edu/) (UIUC, 2025-2026)
-- [NSF Center for Quantitative Cell Biology](https://qcb.illinois.edu/) seed grant (2025)
+- NSF Center for Quantitative Cell Biology Seed Grant (2025)
 - “People’s choice” Poster Award (Illinois Biophysics, 2024)
 - Outstanding Graduate Award (SUSTech, 2020)
 - Excellent Undergraduate Thesis Award (SUSTech, 2020)
