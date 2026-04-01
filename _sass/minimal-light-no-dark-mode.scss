@@ -205,7 +205,13 @@ h2 {
 }
 
 p, ul, ol, table, pre, dl {
-  margin:0 0 20px;
+  margin:0 0 6px;
+}
+
+section p:has(+ h2),
+section ul:has(+ h2),
+section ol:has(+ h2) {
+  margin-bottom: 20px;
 }
 
 h1, h2, h3 {
