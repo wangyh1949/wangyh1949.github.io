@@ -4,7 +4,11 @@ layout: homepage
 
 ## About Me
 
-Hi, I'm a Ph.D. candidate in Physics at the University of Illinois Urbana-Champaign (UIUC). My research focuses on exploring the spatiotemporal dynamics of DNA loci and proteins in living bacterial cells using single-particle tracking and super-resolution microscopy.  Learn more about our work at the [Kim Lab Website](https://www.sjkimlab.org/).
+Hi, I'm a Ph.D. candidate in Physics at the University of Illinois Urbana-Champaign (UIUC). 
+
+My research explores how genetic and molecular components are organized, move, and interact inside living bacterial cells, using cutting‑edge quantitative imaging and analysis. I combine high‑resolution fluorescence microscopy (including MINFLUX and single‑particle tracking) with rigorous computational models to precisely measure how DNA loci, RNA molecules, and key protein complexes diffuse, localize, and function. 
+
+Learn more about my work at the [Kim Lab Website](https://www.sjkimlab.org/).
 
 ## Research Interests
 
