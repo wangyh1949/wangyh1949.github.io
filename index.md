@@ -19,8 +19,9 @@ Learn more about my work at the [Kim Lab Website](https://www.sjkimlab.org/).
 ## News
 
 #### 2026
+- **[Apr. 17]** I was honored to receive the [L.S. Edelheit Family Biological Physics Fellowship](https://physics.illinois.edu/people/honors-and-awards/graduate-awards) for  2026!
 - **[March 24]** I gave a research talk at the Biopolymers In Vivo (BIV) Subgroup Student Mini-Symposium in celebration of the 11th [Annual Biophysics Week](https://www.biophysics.org/biophysics-week#/).
-- **[Feb. 23]** I'm honored to receive the [Student Research Achievement Award (SRAA)](https://www.biophysics.org/news-room/biophysical-society-selects-student-research-achievement-award-winners-47) for the Biopolymers in vivo Subgroup at the [2026 BPS Annual Meeting](https://www.biophysics.org/2026meeting#/).
+- **[Feb. 23]** I'm honored to receive the [Student Research Achievement Award (SRAA)](https://www.biophysics.org/news-room/biophysical-society-selects-student-research-achievement-award-winners-47) for the Biopolymers in vivo Subgroup at the 2026 BPS Annual Meeting.
 
 #### 2025
 - **[Nov. 25]** I received the Graduate Travel Award for the [2026 BPS Annual Meeting](https://www.biophysics.org/2026meeting#/).
@@ -61,9 +62,10 @@ Learn more about my work at the [Kim Lab Website](https://www.sjkimlab.org/).
   
 ## Honors and Awards
 
+- L.S. Edelheit Family Biological Physics Fellowship (UIUC, 2026)
 - Student Research Achievement Award (Biophysical Society, 2026)
 - BPS Graduate Travel Award (Biophysical Society, 2026)
-- [Mavis Future Faculty Fellow](https://mavis.grainger.illinois.edu/) (UIUC, 2025-2026)
+- Mavis Future Faculty Fellow (UIUC, 2025-2026)
 - NSF Center for Quantitative Cell Biology Seed Grant (2025)
 - “People’s choice” Poster Award (Illinois Biophysics, 2024)
 - Outstanding Graduate Award (SUSTech, 2020)
