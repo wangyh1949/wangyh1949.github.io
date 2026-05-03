@@ -19,14 +19,15 @@ Learn more about my work at the [Kim Lab Website](https://www.sjkimlab.org/).
 ## News
 
 #### 2026
-- **[Apr. 17]** I was honored to receive the [L.S. Edelheit Family Biological Physics Fellowship](https://physics.illinois.edu/people/honors-and-awards/graduate-awards) for  2026!
+- **[May 1]** Our book chapter on [smFISH RNA localization](https://link.springer.com/protocol/10.1007/978-1-0716-5027-1_9) was published in Cellular Spatial Characterization and Analysis.
+- **[Apr. 17]** I was honored to receive the [L.S. Edelheit Family Biological Physics Fellowship](https://physics.illinois.edu/people/honors-and-awards/graduate-awards) for 2026!
 - **[March 24]** I gave a research talk at the Biopolymers In Vivo (BIV) Subgroup Student Mini-Symposium in celebration of the 11th [Annual Biophysics Week](https://www.biophysics.org/biophysics-week#/).
 - **[Feb. 23]** I'm honored to receive the [Student Research Achievement Award (SRAA)](https://www.biophysics.org/news-room/biophysical-society-selects-student-research-achievement-award-winners-47) for the Biopolymers in vivo Subgroup at the 2026 BPS Annual Meeting.
 
 #### 2025
 - **[Nov. 25]** I received the Graduate Travel Award for the [2026 BPS Annual Meeting](https://www.biophysics.org/2026meeting#/).
-- **[Nov. 7]** Our paper on [RNase E's localization & diffusion](https://doi.org/10.7554/eLife.105062.3) was published on **eLife**.
-- **[Oct. 6]** Our paper on [MSD nonlinear fitting](https://doi.org/10.1063/5.0284172) was published on **JCP**.
+- **[Nov. 7]** Our paper on [RNase E's localization & diffusion](https://doi.org/10.7554/eLife.105062.3) was published in **eLife**.
+- **[Oct. 6]** Our paper on [MSD nonlinear fitting](https://doi.org/10.1063/5.0284172) was published in **JCP**.
 - **[July 30]** I gave a talk on loci dynamics at the [NSF iPoLS annual meeting](https://emails.illinois.edu/newsletter/29/426731929.html).
 - **[May 1]** I was selected as a [Mavis Future Faculty Fellow](https://mavis.grainger.illinois.edu/).
 - **[Apr. 14]** I was awarded a seed grant from [NSF Center for Quantitative Cell Biology](https://qcb.illinois.edu/) to investigate the spatiotemporal dynamics of phage DNA circularization in *E. coli*.

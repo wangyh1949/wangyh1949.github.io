@@ -1,12 +1,21 @@
 main:
 
+  - title: Single-Molecule Fluorescence In Situ Hybridization (smFISH) for RNA Localization Relative to a DNA Locus in Bacteria
+    authors: Juan Echeverry, <u><strong>Yu-Huan Wang</strong></u>, Sangjin Kim
+    # journal_short: eLife
+    journal: <strong>Cellular Spatial Characterization and Analysis,  T. L. Frankel and A. Rao, eds. (Springer US)</strong>, 2026.
+    link: https://link.springer.com/protocol/10.1007/978-1-0716-5027-1_9
+    pdf: ./assets/paper/2026_Echeverry_springer.pdf
+    code: https://github.com/sjkimlab/FISH2025
+    image: ./assets/img/paper/2026_springer.jpg
+
   - title: Roles of the membrane-binding motif and the C-terminal domain of RNase E in localization and diffusion in <em>E. coli</em>
     authors: Laura Troyer*, <u><strong>Yu-Huan Wang*</strong></u>, Shobhna Shobhna, Seunghyeon Kim, Brooke Ramsey, Jeechul Woo, Emad Tajkhorshid, Sangjin Kim (*co-first authors)
     journal_short: eLife
     journal: <strong>eLife</strong>, 2025.
     link: https://doi.org/10.7554/eLife.105062.3
     pdf: ./assets/paper/2025_Troyer_eLife.pdf
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    code: https://github.com/sjkimlab/2025_RNaseE
     image: ./assets/img/paper/2025_eLife.jpg
 
   - title: Practical considerations for accurate estimation of diffusion parameters from single-particle tracking in living cells
