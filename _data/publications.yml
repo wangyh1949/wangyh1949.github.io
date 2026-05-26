@@ -1,9 +1,18 @@
 main:
 
+  - title: Re-defining how mRNA degradation is coordinated with transcription and translation in bacteria
+    authors: Seunghyeon Kim, Yan Zhang, Xiangwu Ju, Albur Hassan, <u><strong>Yu-Huan Wang</strong></u>, Shixin Liu, Sangjin Kim
+    journal_short: Nat Microbiol
+    journal: <strong>Nature Microbiology</strong>, 2026.
+    link: https://www.nature.com/articles/s41564-026-02374-8
+    pdf: ./assets/paper/2026_Kim_NatMicro.pdf
+    code: https://github.com/sjkimlab/2026_NatMicro
+    image: ./assets/img/paper/2026_NatMicro.jpg
+
   - title: Single-Molecule Fluorescence In Situ Hybridization (smFISH) for RNA Localization Relative to a DNA Locus in Bacteria
     authors: Juan Echeverry, <u><strong>Yu-Huan Wang</strong></u>, Sangjin Kim
     # journal_short: eLife
-    journal: <strong>Cellular Spatial Characterization and Analysis,  T. L. Frankel and A. Rao, eds. (Springer US)</strong>, 2026.
+    journal: <strong>Cellular Spatial Characterization and Analysis</strong>,  T. L. Frankel and A. Rao, eds. (Springer US), 2026.
     link: https://link.springer.com/protocol/10.1007/978-1-0716-5027-1_9
     pdf: ./assets/paper/2026_Echeverry_springer.pdf
     code: https://github.com/sjkimlab/FISH2025

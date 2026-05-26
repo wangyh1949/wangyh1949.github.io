@@ -19,8 +19,9 @@ Learn more about my work at the [Kim Lab Website](https://www.sjkimlab.org/).
 ## News
 
 #### 2026
+- **[May 22]** Our paper on [mRNA degradation](https://www.nature.com/articles/s41564-026-02374-8) was published in **Nature Microbiology**.
 - **[May 1]** Our book chapter on [smFISH RNA localization](https://link.springer.com/protocol/10.1007/978-1-0716-5027-1_9) was published in Cellular Spatial Characterization and Analysis.
-- **[Apr. 17]** I was honored to receive the [L.S. Edelheit Family Biological Physics Fellowship](https://physics.illinois.edu/people/honors-and-awards/graduate-awards) for 2026!
+- **[Apr. 17]** I was honored to receive the 2026 [L.S. Edelheit Family Fellowship in Biological Physics](https://physics.illinois.edu/people/honors-and-awards/graduate-awards)!
 - **[March 24]** I gave a research talk at the Biopolymers In Vivo (BIV) Subgroup Student Mini-Symposium in celebration of the 11th [Annual Biophysics Week](https://www.biophysics.org/biophysics-week#/).
 - **[Feb. 23]** I'm honored to receive the [Student Research Achievement Award (SRAA)](https://www.biophysics.org/news-room/biophysical-society-selects-student-research-achievement-award-winners-47) for the Biopolymers in vivo Subgroup at the 2026 BPS Annual Meeting.
 
@@ -63,7 +64,7 @@ Learn more about my work at the [Kim Lab Website](https://www.sjkimlab.org/).
   
 ## Honors and Awards
 
-- L.S. Edelheit Family Biological Physics Fellowship (UIUC, 2026)
+- L.S. Edelheit Family Fellowship in Biological Physics (UIUC, 2026)
 - Student Research Achievement Award (Biophysical Society, 2026)
 - BPS Graduate Travel Award (Biophysical Society, 2026)
 - Mavis Future Faculty Fellow (UIUC, 2025-2026)
