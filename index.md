@@ -12,9 +12,9 @@ Learn more about my work at the [Kim Lab Website](https://www.sjkimlab.org/).
 
 ## Research Interests
 
-- **Chromosome Organization and Dynamics in Bacteria**
-- **Super-Resolution Fluorescence Microscopy**
 - **Single-Molecule Biophysics** 
+- **Super-Resolution Fluorescence Microscopy**
+- **Chromosome Organization and Dynamics in Bacteria**
 
 ## News
 

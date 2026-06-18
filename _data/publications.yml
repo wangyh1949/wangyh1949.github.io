@@ -1,6 +1,15 @@
 main:
 
-  - title: Re-defining how mRNA degradation is coordinated with transcription and translation in bacteria
+  - title: Dynamic partitioning shapes the in vivo organization of the <em>E. coli</em> RNA degradosome
+    authors: Laura Troyer*, <u><strong>Yu-Huan Wang*</strong></u>, Kevin Wu, Seunghyeon Kim, Sangjin Kim (*co-first authors)
+    journal_short: bioRxiv
+    journal: <strong>bioRxiv</strong>, 2026.
+    link: https://www.biorxiv.org/content/10.64898/2026.05.25.727690v2
+    pdf: ./assets/paper/2026_Troyer_bioRxiv.pdf
+    image: ./assets/img/paper/2026_RNAD.png
+    notes: submitted
+
+  - title: Spatial and genetic constraints govern transcription–translation coupling and mRNA degradation in bacteria
     authors: Seunghyeon Kim, Yan Zhang, Xiangwu Ju, Albur Hassan, <u><strong>Yu-Huan Wang</strong></u>, Shixin Liu, Sangjin Kim
     journal_short: Nat Microbiol
     journal: <strong>Nature Microbiology</strong>, 2026.
@@ -11,15 +20,16 @@ main:
 
   - title: Single-Molecule Fluorescence In Situ Hybridization (smFISH) for RNA Localization Relative to a DNA Locus in Bacteria
     authors: Juan Echeverry, <u><strong>Yu-Huan Wang</strong></u>, Sangjin Kim
-    # journal_short: eLife
-    journal: <strong>Cellular Spatial Characterization and Analysis</strong>,  T. L. Frankel and A. Rao, eds. (Springer US), 2026.
+    journal_short: Springer
+    journal: <strong>Cellular Spatial Characterization and Analysis</strong>, 2026.
     link: https://link.springer.com/protocol/10.1007/978-1-0716-5027-1_9
     pdf: ./assets/paper/2026_Echeverry_springer.pdf
     code: https://github.com/sjkimlab/FISH2025
     image: ./assets/img/paper/2026_springer.jpg
 
   - title: Roles of the membrane-binding motif and the C-terminal domain of RNase E in localization and diffusion in <em>E. coli</em>
-    authors: Laura Troyer*, <u><strong>Yu-Huan Wang*</strong></u>, Shobhna Shobhna, Seunghyeon Kim, Brooke Ramsey, Jeechul Woo, Emad Tajkhorshid, Sangjin Kim (*co-first authors)
+    authors: Laura Troyer*, <u><strong>Yu-Huan Wang*</strong></u>, Shobhna Shobhna, Seunghyeon Kim, Brooke Ramsey, 
+      Jeechul Woo, Emad Tajkhorshid, Sangjin Kim (*co-first authors)
     journal_short: eLife
     journal: <strong>eLife</strong>, 2025.
     link: https://doi.org/10.7554/eLife.105062.3
@@ -30,7 +40,7 @@ main:
   - title: Practical considerations for accurate estimation of diffusion parameters from single-particle tracking in living cells
     authors: Aishani Ghosal, <u><strong>Yu-Huan Wang</strong></u>, Nguyen Nguyen, Laura Troyer, Sangjin Kim
     journal_short: JCP
-    journal: Journal of Chemical Physics <strong>(JCP)</strong>, 2025.
+    journal: <strong>Journal of Chemical Physics</strong>, 2025.
     link: https://doi.org/10.1063/5.0284172
     pdf: ./assets/paper/2025_Ghosal_JCP.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
