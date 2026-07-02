@@ -1,1 +1,15 @@
-bundle exec jekyll serve --livereload
+1. Update ruby using homebrew: 
+    brew install ruby 
+2. Add Homebrew Ruby to your PATH (important, otherwise macOS uses old Ruby)
+    echo 'export PATH="/opt/homebrew/opt/ruby/bin:$PATH"' >> ~/.zshrc
+    source ~/.zshrc
+3. Verify Ruby version
+    ruby -v
+
+install packages in Gemfile
+    bundle install
+
+Render website locally with live reload
+    bundle exec jekyll serve --livereload
+
+press ctrl-c to stop
