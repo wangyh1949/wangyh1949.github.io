@@ -1,13 +1,13 @@
 main:
 
-  - title: Dynamic partitioning shapes the <em>in vivo</em> organization of the <em>E. coli</em> RNA degradosome
+  - title: Dynamic partitioning shapes the in vivo organization of the <em>E. coli</em> RNA degradosome
     authors: Laura Troyer*, <u><strong>Yu-Huan Wang*</strong></u>, Kevin Wu, Seunghyeon Kim, Sangjin Kim (*co-first authors)
     journal_short: bioRxiv
     journal: <strong>bioRxiv</strong>, 2026.
     link: https://www.biorxiv.org/content/10.64898/2026.05.25.727690v2
     pdf: ./assets/paper/2026_Troyer_bioRxiv.pdf
     image: ./assets/img/paper/2026_RNAD.png
-    notes: under review
+    notes: submitted
 
   - title: Spatial and genetic constraints govern transcription–translation coupling and mRNA degradation in bacteria
     authors: Seunghyeon Kim, Yan Zhang, Xiangwu Ju, Albur Hassan, <u><strong>Yu-Huan Wang</strong></u>, Shixin Liu, Sangjin Kim
