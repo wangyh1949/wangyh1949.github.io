@@ -20,10 +20,10 @@ You can learn more about my research on the [Kim Lab Website](https://www.sjkiml
 
 #### 2026
 - **[05.22]** Our paper on [mRNA degradation](https://www.nature.com/articles/s41564-026-02374-8) was published in **Nature Microbiology**.
-- **[05.01]** Our book chapter on [smFISH RNA localization](https://link.springer.com/protocol/10.1007/978-1-0716-5027-1_9) was published in Cellular Spatial Characterization and Analysis.
+- **[05.01]** Our book chapter on [smFISH RNA localization](https://link.springer.com/protocol/10.1007/978-1-0716-5027-1_9) was published in **Cellular Spatial Characterization and Analysis**.
 - **[04.17]** I was honored to receive the 2026 [L.S. Edelheit Family Fellowship in Biological Physics](https://physics.illinois.edu/people/honors-and-awards/graduate-awards)!
-- **[03.24]** I gave a research talk at the Biopolymers In Vivo (BIV) Subgroup Student Mini-Symposium in celebration of the 11th [Annual Biophysics Week](https://www.biophysics.org/biophysics-week#/).
-- **[02.23]** I'm honored to receive the [Student Research Achievement Award (SRAA)](https://www.biophysics.org/news-room/biophysical-society-selects-student-research-achievement-award-winners-47) for the Biopolymers in vivo Subgroup at the 2026 BPS Annual Meeting.
+- **[03.24]** I gave a research talk at the Biopolymers In Vivo (BIV) Subgroup Student Mini-Symposium in celebration of the [11th Annual Biophysics Week](https://www.biophysics.org/biophysics-week#/).
+- **[02.23]** I presented a poster and received the [Student Research Achievement Award (SRAA)](https://www.biophysics.org/news-room/biophysical-society-selects-student-research-achievement-award-winners-47) for the Biopolymers in vivo Subgroup at the [2026 BPS Annual Meeting](https://www.biophysics.org/2026meeting#/).
 
 #### 2025
 - **[11.25]** I received the Graduate Travel Award for the [2026 BPS Annual Meeting](https://www.biophysics.org/2026meeting#/).
