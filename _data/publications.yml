@@ -21,7 +21,7 @@ main:
   - title: Single-Molecule Fluorescence In Situ Hybridization (smFISH) for RNA Localization Relative to a DNA Locus in Bacteria
     authors: Juan Echeverry, <u><strong>Yu-Huan Wang</strong></u>, Sangjin Kim
     journal_short: Springer
-    journal: <strong>Cellular Spatial Characterization and Analysis</strong>, Springer US, 2026.
+    journal: <strong>Cellular Spatial Characterization and Analysis</strong>, 2026.
     link: https://link.springer.com/protocol/10.1007/978-1-0716-5027-1_9
     pdf: ./assets/paper/2026_Echeverry_springer.pdf
     code: https://github.com/sjkimlab/FISH2025
