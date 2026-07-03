@@ -74,6 +74,6 @@ You can learn more about my research on the [Kim Lab Website](https://www.sjkiml
 - Outstanding Graduate Award (SUSTech, 2020)
 - Excellent Undergraduate Thesis Award (SUSTech, 2020)
 - Full Scholarship for Study Abroad (SUSTech, 2019)
-- Climbing Research Grant (Guangdong Province, China, 2019)
+- "Climbing Plan" Research Special Fund (Guangdong, China, 2019)
 - Full Scholarship for Academic Excellence (SUSTech, 2017-2020)
 
