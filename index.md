@@ -19,6 +19,7 @@ You can learn more about my research on the [Kim Lab Website](https://www.sjkiml
 ## News
 
 #### 2026
+- **[10.16]** Our paper on [RNA degradosome](https://www.pnas.org/doi/10.1073/pnas.2621525123) was published in **PNAS**.
 - **[07.24]** I presented a poster and led a session at the [7th Midwest Single Molecule Workshop](https://emails.illinois.edu/newsletter/36/393544136.html).
 - **[05.22]** Our paper on [mRNA degradation](https://www.nature.com/articles/s41564-026-02374-8) was published in **Nature Microbiology**.
 - **[05.01]** Our book chapter on [smFISH RNA localization](https://link.springer.com/protocol/10.1007/978-1-0716-5027-1_9) was published in **Cellular Spatial Characterization and Analysis**.
